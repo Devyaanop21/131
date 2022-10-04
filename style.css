@@ -1,0 +1,33 @@
+body
+{
+background-color: rgb(30, 30, 30);
+
+color: white;
+}
+img{
+
+border-radius: 40px;
+border: white;
+
+
+}
+div
+{
+    background: linear-gradient(126deg, rgba(0,2,31,1) 11%, rgba(2,62,212,1) 36%);
+    
+    color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border-color: white;
+
+
+}
+button
+{
+
+background-color: rgb(1, 1, 26);
+border-radius: 40px;
+
+}
+
+
+
